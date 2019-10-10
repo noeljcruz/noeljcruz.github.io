@@ -18,12 +18,16 @@
     margin-bottom: 48px;
 }
 
+#contact {
+    text-align: center;
+}
+
 p {
     font-size: 18px;
 }
 
 address {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 hr {
