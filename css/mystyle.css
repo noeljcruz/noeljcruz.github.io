@@ -18,6 +18,14 @@
     margin-bottom: 48px;
 }
 
+p {
+    font-size: 18px;
+}
+
+address {
+    font-size: 18px;
+}
+
 hr {
     background-color: rgb(210, 159, 19);
 }
