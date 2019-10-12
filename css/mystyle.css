@@ -55,6 +55,9 @@ hr {
 
 .card-title {
     text-align: center;
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(210, 159, 19);
+    padding-bottom: 10px;
 }
 
 .btn {
