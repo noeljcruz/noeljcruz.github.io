@@ -1,0 +1,23 @@
+.bg-gold {
+    background-color: rgb(210, 159, 19);
+}
+
+.txt-gold {
+    color: rgb(210, 159, 19);
+}
+
+.bg-navy {
+    background-color: rgb(0, 38, 119);
+}
+
+.txt-navy {
+    color: rgb(0, 38, 119);
+}
+
+.txt-bold {
+    font-weight: bold;
+}
+
+.txt-cen {
+    text-align: center;
+}
