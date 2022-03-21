@@ -73,7 +73,7 @@ body {
 	line-height: 1.5;
 	color: #0e0e0e;
 	text-align: left;
-	background-color: #fff
+	background-color:hsla(0, 0%, 100%, .5);
 }
 
 [tabindex="-1"]:focus {
@@ -6558,7 +6558,7 @@ button.bg-black:hover {
 }
 
 .bg-white {
-	background-color: #fff!important
+	background-color:hsla(0, 0%, 100%, .5)!important
 }
 
 .bg-transparent {
